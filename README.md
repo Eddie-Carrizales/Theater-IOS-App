@@ -3,7 +3,7 @@
 
 Theater is an app similar to Flix that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-### Completed Features:
+## Completed Features:
 - [✅] (5pts) User can tap a cell to see more details about a particular movie.
 - [✅] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 - [✅] (2pts) User sees an app icon on the home screen and a styled launch screen.
