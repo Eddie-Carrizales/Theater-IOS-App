@@ -14,11 +14,9 @@ Theater is an app similar to Flix that allows users to browse movies from the [T
 ## App Walkthrough 1
 
 Here's a walkthrough of implemented user stories:
-
-<img src='http://g.recordit.co/WlRtdTQIqi.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 Link to walkthrough video: http://g.recordit.co/WlRtdTQIqi.gif
 
+<img src='http://g.recordit.co/WlRtdTQIqi.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 Challenges encountered while building the app:
