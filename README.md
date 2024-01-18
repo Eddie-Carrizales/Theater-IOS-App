@@ -17,6 +17,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/WlRtdTQIqi.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Link to walkthrough video: http://g.recordit.co/WlRtdTQIqi.gif
+
 
 ## Notes
 Challenges encountered while building the app:
