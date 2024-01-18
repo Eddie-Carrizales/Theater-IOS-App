@@ -11,7 +11,7 @@ Theater is an app similar to Flix that allows users to browse movies from the [T
 - [✅] (3pts) User can view the movie poster image for each movie.
 - [✅] (1pt) Can run your app on a real device.
 
-## App Walkthrough 1
+## App Walkthrough
 
 Here's a walkthrough of implemented user stories:
 Link to walkthrough video: http://g.recordit.co/WlRtdTQIqi.gif
